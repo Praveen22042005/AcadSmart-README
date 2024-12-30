@@ -5,7 +5,8 @@ AcadSmart is a comprehensive academic publication management system that revolut
 
 ![main-dashboard](https://github.com/user-attachments/assets/3534e517-7356-4a57-b781-021a466b1555)
 
-## Key Features & Impact
+# Key Features & Impact
+
 
 # Faculty Registration
 ![register-faculty](https://github.com/user-attachments/assets/5320be61-884a-4707-91ed-8ca025604bd8)
